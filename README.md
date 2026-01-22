@@ -6,10 +6,10 @@ I'm interested in software development and UX
 
 <p>
   <a href="www.linkedin.com/in/zeynah-khan-4b9954228">
-    <img src="assets/icons/linkedin-logo.png" width="36"/>
+    <img src="../Zeynah-Khan/assets/linkedin-logo.png" width="36"/>
   </a>
   <a href="https://github.com/zeynah-khan?tab=repositories">
-    <img src="assets/icons/heart-envelope.png" width="36" />
+    <img src="../Zeynah-Khan/assets/heart-envelope.png" width="36" />
   </a>
 </p>
 
