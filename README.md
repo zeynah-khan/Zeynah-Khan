@@ -5,11 +5,11 @@ I like building cozy pixel games + web projects
 I'm interested in software development and UX
 
 <p>
-  <a href="www.linkedin.com/in/zeynah-khan-4b9954228" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="www.linkedin.com/in/zeynah-khan-4b9954228">
+    <img src="assets/icons/linkedin-logo.png" width="36"/>
   </a>
   <a href="https://github.com/zeynah-khan?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="assets/icons/heart-envelope.png" width="36" />
   </a>
 </p>
 
