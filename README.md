@@ -8,32 +8,20 @@ I'm interested in software development and UX
   <a href="www.linkedin.com/in/zeynah-khan-4b9954228/" target="_blank">
     <img src="assets/linkedin-logo.png" width="36" />
   </a>
-  <a href="https://github.com/zeynah-khan/">
-    <img src="assets/heart-envelope.png" width="36" />
-  </a>
-</p>
 
 ---
 
-## ✨ featured projects
-
-🍵 **Matcha Maker**  
-pixel drink builder game (HTML / CSS / JavaScript)  
-👉 https://github.com/zeynah-khan/matcha-game
-
-🐱 **Pixel Cat Game** *(in progress)*  
-cozy virtual cat interaction game  
-👉 coming soon
-
----
-
-## 🧰 tech i use
-- JavaScript, Python
+<img src="assets/pink-heart.png" width="36" /> 
+## What I Use:
+- JavaScript, Python, Java, Swift
 - HTML, CSS
 - Git, VS Code
 
 ---
 
-## 🌱 currently
-- building small, finished projects
-- improving frontend + UI polish
+<img src="assets/pink-heart.png" width="36" /> 
+## Featured Projects
+
+Under construction - Come back later!!!
+
+---
