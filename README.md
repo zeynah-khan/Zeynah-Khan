@@ -1,26 +1,24 @@
 # hi, I'm Zeynah! 🍵🐱
 
 I'm a third-year computer science student  
-I like building cozy pixel games + web projects
-I'm interested in software development and UX
+I like building cozy pixel games + web projects, and I'm interested in software development and UX
 
 <p>
-  <a href="www.linkedin.com/in/zeynah-khan-4b9954228/" target="_blank">
-    <img src="assets/linkedin-logo.png" width="36" />
+  <a href="https://www.linkedin.com/in/zeynah-khan-4b9954228/" target="_blank" rel="noreferrer">
+    <img src="assets/linkedin-logo.png" width="36" alt="LinkedIn"/>
   </a>
+</p>
 
 ---
 
-<img src="assets/pink-heart.png" width="36" /> 
-## What I Use:
+## <img src="assets/pink-heart.png" width="18" alt="heart"/> Featured Projects
 - JavaScript, Python, Java, Swift
 - HTML, CSS
 - Git, VS Code
 
 ---
 
-<img src="assets/pink-heart.png" width="36" /> 
-## Featured Projects
+## <img src="assets/pink-heart.png" width="18" alt="heart"/> Featured Projects
 
 Under construction - Come back later!!!
 
