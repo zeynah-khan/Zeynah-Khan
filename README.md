@@ -1,9 +1,10 @@
-## <img src="assets/pink-heart.png" width="24" alt="heart"/> About Me
+## <img src="assets/pink-heart.png" width="24" align="center"/> About Me
+# hi, i'm Zeynah!
+·  third-year computer science student  
+·  building cozy pixel games + web projects  
+·  interested in software development & UX
 
-I'm a third-year computer science student  
-I like building cozy pixel games + web projects, and I'm interested in software development and UX
-
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/zeynah-khan-4b9954228/" target="_blank" rel="noreferrer">
     <img src="assets/linkedin-logo.png" width="24" alt="LinkedIn"/>
   </a>
@@ -11,14 +12,19 @@ I like building cozy pixel games + web projects, and I'm interested in software 
 
 ---
 
-## <img src="assets/pink-heart.png" width="24" alt="heart"/> What I Use
-- JavaScript, Python, Java, Swift
-- HTML, CSS
-- Git, VS Code
+## <img src="assets/pink-heart.png" width="24" align="center"/> What I Use
+**languages**  
+JavaScript · Python · Java · Swift  
+
+**web**  
+HTML · CSS  
+
+**tools**  
+Git · VS Code
 
 ---
 
-## <img src="assets/pink-heart.png" width="24" alt="heart"/> Featured Projects
+## <img src="assets/pink-heart.png" width="24" align="center"/> Featured Projects
 
 Under construction - Come back later!!!
 
