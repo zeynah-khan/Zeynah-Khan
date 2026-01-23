@@ -1,4 +1,4 @@
-# hi, I'm Zeynah! 🍵🐱
+## <img src="assets/pink-heart.png" width="18" alt="heart"/> About Me
 
 I'm a third-year computer science student  
 I like building cozy pixel games + web projects, and I'm interested in software development and UX
@@ -11,7 +11,7 @@ I like building cozy pixel games + web projects, and I'm interested in software 
 
 ---
 
-## <img src="assets/pink-heart.png" width="18" alt="heart"/> Featured Projects
+## <img src="assets/pink-heart.png" width="18" alt="heart"/> What I Use
 - JavaScript, Python, Java, Swift
 - HTML, CSS
 - Git, VS Code
