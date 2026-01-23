@@ -1,5 +1,6 @@
 ## <img src="assets/pink-heart.png" width="24" align="center"/> About Me
 hi, i'm Zeynah!
+
 ·  third-year computer science student  
 ·  building cozy pixel games + web projects  
 ·  interested in software development & UX
