@@ -29,7 +29,6 @@
 ![Python](https://img.shields.io/badge/Python-a88767?style=for-the-badge&labelColor=a88767&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-a88767?style=for-the-badge&labelColor=a88767&logo=javascript&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-a88767?style=for-the-badge&labelColor=a88767&logo=openjdk&logoColor=ffffff)
-
 ![HTML](https://img.shields.io/badge/HTML-cc8aa7?style=for-the-badge&labelColor=cc8aa7&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS-cc8aa7?style=for-the-badge&labelColor=cc8aa7&logo=css3&logoColor=ffffff)
 
