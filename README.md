@@ -6,7 +6,7 @@
 </div>
 
 # Hi, I'm Zeynah Khan!
-CS Graduate | Kingston University
+CS Student | Kingston University
 
 Full-stack & Mobile Developer | React | React Native | Swift | Python
 
