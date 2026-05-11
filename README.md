@@ -12,10 +12,9 @@ Full-stack & Mobile Developer | React | React Native | Swift | Python
 
 I build functional, well-designed apps grounded in real user needs!
 
-
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/zeynah-khan) | [Email](zeynahkhan@outlook.com)
-
+LinkedIn: https://www.linkedin.com/in/zeynah-khan
+Email: zeynahkhan@outlook.com
 
 ## My Projects
 
@@ -29,7 +28,7 @@ I build functional, well-designed apps grounded in real user needs!
 - Implemented MVC architecture with SwiftData persistence, streak tracking, and 7-day history view
 - Designed custom UI with a nature-themed design system supporting both light and dark mode
 
-**GeoQuest | React Project | Team**
+**GeoQuest | React App | Team**
 - Real-time location-based treasure hunting app with live map, points & leaderboard
 - Integrated external REST API for location data; implemented real-time state management
 - Collaborated using Git across full stack from API integration to UI
