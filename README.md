@@ -1,51 +1,38 @@
-<div align="center">
-˖ . ݁𝜗𝜚. ݁₊
-  
-# ‧˚₊  Hi, I'm Zeynah ! ‧₊˚⊹
-
-</div>
-
-<div align="center"> 
-
-**About Me:**   
-⊹ I'm a third-year Computer Science student   
-⊹ I'm interested in software development & UX   
-⊹ I enjoy building pixel games and web projects   
-⊹ I like cats!!!  
-
-**Connect with me:**
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeynah-khan-4b9954228/" target="_blank" rel="noreferrer">
-    <img src="assets/linkedin-logo.png" width="24" alt="LinkedIn"/>
-  </a>
-</p>
-</div>
-
-<div align="center">
-  
-# ‧˚₊  Technologies & Tools  ‧₊˚⊹
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-a88767?style=for-the-badge&labelColor=a88767&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-a88767?style=for-the-badge&labelColor=a88767&logo=javascript&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-a88767?style=for-the-badge&labelColor=a88767&logo=openjdk&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/HTML-cc8aa7?style=for-the-badge&labelColor=cc8aa7&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/CSS-cc8aa7?style=for-the-badge&labelColor=cc8aa7&logo=css3&logoColor=ffffff)
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-6f9a83?style=for-the-badge&labelColor=6f9a83&logo=react&logoColor=ffffff)
-![React%20Native](https://img.shields.io/badge/React%20Native-6f9a83?style=for-the-badge&labelColor=6f9a83&logo=react&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-4f7f66?style=for-the-badge&labelColor=4f7f66&logo=node.js&logoColor=ffffff)
-
-</div>
-
-<div align="center">
-  
-# ‧˚₊  Featured Projects  ‧₊˚⊹
-
-Under construction - Come back later !!!11!!!!!1!1!!
+<div>
 
   :¨ ·.· ¨:  
   `· . 𐙚
   
 </div>
+
+# Hi, I'm Zeynah Khan!
+CS Graduate | Kingston University
+
+Full-stack & Mobile Developer | React | React Native | Swift | Python
+
+I build functional, well-designed apps grounded in real user needs!
+
+
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/zeynah-khan) | [Email](zeynahkhan@outlook.com)
+
+
+## My Projects
+
+**Hormone+ | Final Year Project**
+- Cross-platform FemTech mobile app for users with PCOS, menopause & irregular cycles
+- Built with React Native; designed personalised onboarding flows and symptom tracking
+- Applied full SDLC: requirements analysis, iterative development, unit testing & evaluation
+
+**GeoQuest | Team Project**
+- Real-time location-based treasure hunting app with live map, points & leaderboard
+- Integrated external REST API for location data; implemented real-time state management
+- Collaborated using Git across full stack from API integration to UI
+
+**Chewsy | UX Module Project**
+- User-centred mobile app concept tackling food waste and budgeting among students
+- Conducted secondary research, empathy mapping, MoSCoW prioritisation & Figma prototyping
+
+
+## Tech
+React | React Native | JavaScript | Python | Java | Swift | SQL | HTML | CSS | Git | Figma | Xcode
